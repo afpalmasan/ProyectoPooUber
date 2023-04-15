@@ -4,4 +4,10 @@ public class Accaunt {
     String document;
     String email;
     String password;
+
+    public Accaunt(String name, String document){
+        this.name = name;
+        this.document = document;
+    }
 }
+
