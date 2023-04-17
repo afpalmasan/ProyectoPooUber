@@ -2,5 +2,6 @@
 class Payment {
 public $id;
 
+
 }
 ?>
